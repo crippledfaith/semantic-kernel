@@ -236,7 +236,7 @@ public class ChromaMemoryStore : IMemoryStore
     {
         Converters =
         {
-            new ChromaBooleanConverter(),
+            //new ChromaBooleanConverter(),
             new ReadOnlyMemoryConverter(),
         }
     };
