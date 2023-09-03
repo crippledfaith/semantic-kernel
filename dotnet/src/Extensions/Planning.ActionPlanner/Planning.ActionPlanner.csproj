@@ -22,8 +22,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="skprompt.txt" />
-    <EmbeddedResource Include="skprompt.txt">
+    <None Remove="skpromptA.txt" />
+    <EmbeddedResource Include="skpromptA.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
   </ItemGroup>
